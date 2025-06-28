@@ -1,1 +1,3 @@
 # Bone-Age-Estimation-Using-CNN-and-EfficientNetB4
+
+This project presents a deep learning approach to forensic bone age estimation using hand X-ray images from the RSNA dataset. Leveraging the EfficientNetB4 architecture, CLAHE preprocessing, and multimodal fusion with gender metadata, the model accurately predicts skeletal maturity. Preprocessing steps include resizing, grayscale conversion, contrast enhancement, and gender-based feature integration. The model achieves promising performance with an R² score of 0.88 and MSE of 7.93, outperforming traditional techniques. This research highlights the clinical and forensic applicability of AI in age estimation, offering scalable, interpretable, and accurate solutions for automated bone age assessment.
